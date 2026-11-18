@@ -1,0 +1,6 @@
+# Never commit original (unredacted) media
+*-original.*
+originals/
+*.mov
+.DS_Store
+Thumbs.db
